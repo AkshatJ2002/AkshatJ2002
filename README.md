@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about , and sol
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshatJ2002&repo=NusVrse)](https://github.com/AkshatJ2002/repo1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshatJ2002&repo=Portfolio_Template)](https://github.com/AkshatJ2002/repo2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshatJ2002&repo=Portfolio)](https://github.com/AkshatJ2002/repo1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshatJ2002&repo=NusVrse)](https://github.com/AkshatJ2002/repo2)
 
 <br>
 
@@ -35,11 +35,11 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about , and sol
 
 ### ISS Tracker
 Description: A web app that tracks the real-time location of the International Space Station.
-- [ISS Tracker Repository](https://github.com/janedoe/iss-tracker)
+- [ISS Tracker Repository](https://github.com/AkshatJ2002/ISS-Tracker)
 
 ### Portfolio Website
 Description: My personal portfolio showcasing my projects and blog.
-- [Portfolio Website Repository](https://github.com/janedoe/portfolio)
+- [Portfolio Website Repository](https://github.com/AkshatJ2002/Portfolio)
   
 <br>
 
@@ -75,6 +75,6 @@ Description: My personal portfolio showcasing my projects and blog.
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/janedoe)
-- [Twitter](https://twitter.com/janedoe)
-- [Personal Website](https://janedoe.dev)
+- [LinkedIn](https://linkedin.com/in/akshatjain1512)
+- [Github](https://github.com/AkshatJ2002)
+- [LeetCode](https://leetcode.com/u/Akshat_j/)
