@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about , and sol
 - 👯 I’m looking to collaborate on open-source projects in Software Development
 - 🤔 I’m looking for help with Advanced Data Structures and Algorithms
 - 💬 Ask me about C , C++ and DSA
-- 📫 How to reach me: akshatj1512@gmail.com
+- 📫 How to reach me: akshat.j1512@gmail.com
 - 😄 Pronouns: he/His
 - ⚡ Fun fact: I once built a website that helps you build Website by simultaneously display the website while you code!
 
