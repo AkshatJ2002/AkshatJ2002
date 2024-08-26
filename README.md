@@ -26,10 +26,10 @@ Welcome to my GitHub profile! I'm a Software Engineer passionate about , and sol
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshatJ2002&repo=NusVrse)](https://github.com/AkshatJ2002/repo1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshatJ2002&repo=ISS-Tracker)](https://github.com/AkshatJ2002/repo2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshatJ2002&repo=Live-Code-Editor)](https://github.com/AkshatJ2002/repo1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshatJ2002&repo=Portfolio)](https://github.com/AkshatJ2002/repo2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshatJ2002&repo=NusVrse)](https://github.com/AkshatJ2002/NusVrse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshatJ2002&repo=ISS-Tracker)](https://github.com/AkshatJ2002/ISS-Tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshatJ2002&repo=Live-Code-Editor)](https://github.com/AkshatJ2002/Live-Code-Editor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkshatJ2002&repo=Portfolio)](https://github.com/AkshatJ2002/PortFolio)
 
 <br>
 
